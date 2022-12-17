@@ -4,12 +4,12 @@ Hi 👋 My name is Mateus Sousa
 Web Developer
 -------------
 
-I've been learning Web Development since 2020, primarelly focusing in Frontend, and now I'm insterested in learning Mobile Developement as well.
+I've been learning Web Development since 2020, primarelly focusing in Frontend, and now I'm insterested in learning Backend Developement as well.
 
 *   🌍  I'm based in Brazil
 *   🖥️  See my portfolio at [mateussousa.vercel.app](https://mateussousa.vercel.app)
 *   ✉️  You can contact me at [mateussdamiano@gmail.com](mailto:mateussdamiano@gmail.com)
-*   🧠  I'm learning React Native
+*   🧠  I'm learning Django
 
 ### Skills
 <p align="left">
@@ -32,12 +32,4 @@ I've been learning Web Development since 2020, primarelly focusing in Frontend, 
                     
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/matews-sousa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/matessousa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/matews-sousa"><img src="https://github-readme-stats.vercel.app/api?username=matews-sousa&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=171717&hide_border=true&show_icons=true" alt="matews-sousa's GitHub stats" /></a>
-
-<a href="https://github.com/matews-sousa" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matews-sousa&layout=compact&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<p align="left"> <a href="https://www.github.com/matews-sousa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/mateus-damiano/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
