@@ -9,7 +9,7 @@ I've been learning Web Development since 2020, primarelly focusing in Frontend, 
 *   🌍  I'm based in Brazil
 *   🖥️  See my portfolio at [mateussousa.vercel.app](https://mateussousa.vercel.app)
 *   ✉️  You can contact me at [mateussdamiano@gmail.com](mailto:mateussdamiano@gmail.com)
-*   🧠  I'm learning Django
+*   🧠  I'm learning Ruby on Rails
 
 ### Skills
 <p align="left">
